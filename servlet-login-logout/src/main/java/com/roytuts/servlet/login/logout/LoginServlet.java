@@ -1,4 +1,4 @@
-package com.jeejava.servlet.login.logout;
+package com.roytuts.servlet.login.logout;
 
 import java.io.IOException;
 
