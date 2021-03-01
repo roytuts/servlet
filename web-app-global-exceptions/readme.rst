@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/global-exception-configuration-using-web-xml-servlet-and-jsp/
