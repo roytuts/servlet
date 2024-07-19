@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/jsp-servlet-login-logout-with-remember-me/
+Please follow the tutorial https://roytuts.com/jsp-servlet-login-logout-with-remember-me/
