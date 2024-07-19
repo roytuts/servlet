@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/google-chart-using-jsp-servlet/
+Please follow the tutorial https://roytuts.com/google-chart-using-jsp-servlet/
